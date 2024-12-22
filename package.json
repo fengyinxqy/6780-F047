@@ -1,6 +1,6 @@
 {
   "name": "eslint-plugin-no-multiple-refs",
-  "version": "0.0.1-beta.2",
+  "version": "0.0.1-beta.3",
   "description": "check multiple refs in single line",
   "keywords": [
     "eslint",
@@ -42,5 +42,5 @@
     "url": "git+https://github.com/fengyinxqy/eslint-plugin-no-multiple-refs.git"
   },
   "homepage": "https://github.com/fengyinxqy/eslint-plugin-no-multiple-refs",
-  "license": "ISC"
+  "license": "MIT"
 }
